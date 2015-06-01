@@ -13,6 +13,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import panamahitek.PanamaHitek_Arduino;
 
+//Oscar Noel Gómez Troya
 //yo soy Monica De Puy
 public class ER301 implements Runnable {
 
